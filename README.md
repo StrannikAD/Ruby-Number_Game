@@ -1,6 +1,6 @@
 ### Ruby - Number_Game
 
-##### I had to build a simple number guessing game, in Ruby, which met the following conditions.
+##### Using variables, strings, method calls, conditional and loops I wrote a number guessing game in Ruby - with less than 30 lines of code!
 
 To play the game, simply type in `ruby get_number.rb` into your terminal.
 
